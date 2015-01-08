@@ -15,7 +15,7 @@
 
 2.install this app and activate it in Xposed framework
 
-![](https://github.com/UniqueStudio/harmony/imgs/five_lines.png)
+![](https://github.com/UniqueStudio/harmony/raw/master/imgs/five_lines.png)
 
 ## Copyrights
 
