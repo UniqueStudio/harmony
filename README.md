@@ -1,8 +1,8 @@
 # Harmony
 
-##Prosperity, Democracy, Civility, Harmony
-##Freedom, Equality, Justice, Rule of law
-##Patriotism, Dedication, Integrity, Friendship
+**Prosperity, Democracy, Civility, Harmony**
+**Freedom, Equality, Justice, Rule of law**
+**Patriotism, Dedication, Integrity, Friendship**
 
 ## Introduction
 
@@ -15,7 +15,7 @@
 
 2.install this app and activate it in Xposed framework
 
-![](/imgs/five_lines.png)
+![](https://github.com/UniqueStudio/harmony/imgs/five_lines.png)
 
 ## Copyrights
 
